@@ -1,1 +1,1 @@
-Debug Log("Merhaba Dünya!");
+Debug Log("Merhaba Unity");
